@@ -1,0 +1,15 @@
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.deps.json
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Data.pdb
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.dll
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Entities.pdb
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.AssemblyReference.cache
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfoInputs.cache
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.AssemblyInfo.cs
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CoreCompileInputs.cache
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.csproj.CopyComplete
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.dll
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Data.Implementation\obj\Debug\netstandard2.0\E-healthcare.Data.pdb

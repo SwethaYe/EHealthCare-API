@@ -1,0 +1,10 @@
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.deps.json
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\bin\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfoInputs.cache
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.AssemblyInfo.cs
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.CoreCompileInputs.cache
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.dll
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.pdb
+C:\Training\Phase2\1637145790_codesnippet\e-healthcare.api-main\E-healthcare.Api\ProjectManagement.Shared\obj\Debug\netstandard2.0\E-healthcare.Shared.csproj.AssemblyReference.cache
